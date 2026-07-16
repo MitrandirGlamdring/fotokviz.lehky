@@ -1,0 +1,1 @@
+# fotokviz.lehky
