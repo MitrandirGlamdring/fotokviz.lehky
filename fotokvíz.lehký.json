@@ -1,0 +1,186 @@
+{
+  "title": "Fotografický kvíz - Level 1 (Jednoduchý)",
+  "age": "10-15",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Co je fotografie?",
+      "options": ["Druh hudby", "Záznam obrazu pomocí světla", "Druh kresby"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Kdo vytváří fotografie?",
+      "options": ["Spisovatel", "Fotograf", "Herec"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "Co používáme k focení?",
+      "options": ["Mikrofon", "Fotoaparát", "Reproduktor"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "question": "Co potřebuje fotografie ke vzniku?",
+      "options": ["Zvuk", "Světlo", "Vůni"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "Co je objektiv?",
+      "options": ["Baterie fotoaparátu", "Část fotoaparátu zachytávající světlo", "Tlačítko mazání fotek"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "question": "Co znamená zaostřit?",
+      "options": ["Změnit barvu fotografie", "Nastavit ostrý obraz objektu", "Zvětšit fotografii"],
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "question": "Co je portrét?",
+      "options": ["Fotka domu", "Fotka člověka", "Fotka jídla"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "question": "Co je krajina na fotografii?",
+      "options": ["Fotografie zvířete", "Fotografie přírody nebo prostředí", "Fotografie fotoaparátu"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "question": "Co dělá blesk?",
+      "options": ["Přibližuje obraz", "Přidává světlo při focení", "Ukládá fotografie"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "question": "Co se stane při pohybu fotoaparátu během focení?",
+      "options": ["Fotka bude hlasitější", "Fotka může být rozmazaná", "Fotka bude větší"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "Co je zoom?",
+      "options": ["Úprava zvuku", "Přiblížení obrazu", "Nabíjení fotoaparátu"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "question": "Jaká barva vznikne smícháním modré a žluté?",
+      "options": ["Červená", "Zelená", "Fialová"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "question": "Co fotograf kontroluje před focením?",
+      "options": ["Teplotu fotoaparátu", "Kompozici a pozadí", "Výrobní číslo"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "question": "Co je kompozice?",
+      "options": ["Cena fotoaparátu", "Rozložení prvků na fotografii", "Typ baterie"],
+      "correct": 1
+    },
+    {
+      "id": 15,
+      "question": "Co je paměťová karta?",
+      "options": ["Objektiv", "Místo pro ukládání fotografií", "Druh blesku"],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "question": "Jaká fotografie vznikne bez světla?",
+      "options": ["Barevnější", "Velmi tmavá nebo žádná", "Vždy ostrá"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "question": "Proč fotografové hledají zajímavý úhel?",
+      "options": ["Aby šetřili baterii", "Aby byla fotografie zajímavější", "Aby byl fotoaparát lehčí"],
+      "correct": 1
+    },
+    {
+      "id": 18,
+      "question": "Co znamená černobílá fotografie?",
+      "options": ["Fotografie bez fotoaparátu", "Fotografie pouze v odstínech šedé", "Fotografie bez světla"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "question": "Co je selfie?",
+      "options": ["Fotka krajiny", "Fotografie sebe sama", "Fotka zvířete"],
+      "correct": 1
+    },
+    {
+      "id": 20,
+      "question": "Co ovlivňuje náladu fotografie?",
+      "options": ["Jen značka fotoaparátu", "Světlo, barvy a kompozice", "Pouze velikost displeje"],
+      "correct": 1
+    },
+    {
+      "id": 21,
+      "question": "K čemu slouží stativ?",
+      "options": ["K nabíjení", "K upevnění fotoaparátu", "K úpravě barev"],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "question": "Co je filtr u fotografie?",
+      "options": ["Část baterie", "Úprava vzhledu fotografie", "Druh objektivu"],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "question": "Proč fotografové fotí více snímků?",
+      "options": ["Aby spotřebovali kartu", "Aby vybrali nejlepší fotografii", "Protože jedna fotka nefunguje"],
+      "correct": 1
+    },
+    {
+      "id": 24,
+      "question": "Jak se nazývá fotografie zvířat v přírodě?",
+      "options": ["Architektura", "Wildlife fotografie", "Portrét"],
+      "correct": 1
+    },
+    {
+      "id": 25,
+      "question": "Co znamená upravit fotografii?",
+      "options": ["Vyhodit ji", "Změnit například jas nebo barvy", "Přestat ji zobrazovat"],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "question": "Co je hlavní objekt fotografie?",
+      "options": ["Nejmenší věc na fotce", "To, na co se má divák zaměřit", "Okraj fotografie"],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "question": "Co je fotoaparát v mobilu?",
+      "options": ["Není fotoaparát", "Malý digitální fotoaparát", "Pouze záznamník zvuku"],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "question": "Co dělá fotograf?",
+      "options": ["Natáčí pouze filmy", "Vytváří fotografie", "Malujte obrazy"],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "question": "Může být fotografie umění?",
+      "options": ["Ne", "Ano", "Jen černobílá"],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "question": "Co je nejdůležitější pro dobrou fotografii?",
+      "options": ["Nejdražší technika", "Nápad a dobré využití světla", "Největší fotoaparát"],
+      "correct": 1
+    }
+  ]
+}
